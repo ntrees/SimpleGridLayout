@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SimpleGridLayout">
+        <attr name="space_vertical" format="dimension" />
+        <attr name="space_horizental" format="dimension" />
+        <attr name="cell_width" format="dimension" />
+        <attr name="cell_height" format="dimension" />
+        <attr name="cell_x" format="integer" />
+        <attr name="cell_y" format="integer" />
+        <attr name="cell_spanX" format="integer" />
+        <attr name="cell_spanY" format="integer" />
+    </declare-styleable>
+
+</resources>
